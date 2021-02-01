@@ -1,0 +1,45 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="464dp"
+    android:height="464dp"
+    android:viewportWidth="464"
+    android:viewportHeight="464">
+  <path
+      android:pathData="M243.792,216H60.208c-15.182,0.003 -28.273,10.674 -31.336,25.544l-13.816,67.064h273.888l-13.816,-67.064C272.065,226.674 258.974,216.003 243.792,216z"
+      android:fillColor="#3FA9F5"/>
+  <path
+      android:pathData="M296,400H8v-80c0,-8.837 7.163,-16 16,-16h256c8.837,0 16,7.163 16,16V400z"
+      android:fillColor="#ED1C24"/>
+  <path
+      android:pathData="M8,432h40v32H8V432z"
+      android:fillColor="#333333"/>
+  <path
+      android:pathData="M256,432h40v32h-40V432z"
+      android:fillColor="#333333"/>
+  <path
+      android:pathData="M0,400h304v32H0V400z"
+      android:fillColor="#4D4D4D"/>
+  <path
+      android:pathData="M48,344m-16,0a16,16 0,1 1,32 0a16,16 0,1 1,-32 0"
+      android:fillColor="#F2F2F2"/>
+  <path
+      android:pathData="M256,344m-16,0a16,16 0,1 1,32 0a16,16 0,1 1,-32 0"
+      android:fillColor="#F2F2F2"/>
+  <path
+      android:pathData="M208,336H96c-4.418,0 -8,-3.582 -8,-8s3.582,-8 8,-8h112c4.418,0 8,3.582 8,8S212.418,336 208,336z"
+      android:fillColor="#29485A"/>
+  <path
+      android:pathData="M208,360H96c-4.418,0 -8,-3.582 -8,-8s3.582,-8 8,-8h112c4.418,0 8,3.582 8,8S212.418,360 208,360z"
+      android:fillColor="#29485A"/>
+  <path
+      android:pathData="M208,384H96c-4.418,0 -8,-3.582 -8,-8s3.582,-8 8,-8h112c4.418,0 8,3.582 8,8S212.418,384 208,384z"
+      android:fillColor="#29485A"/>
+  <path
+      android:pathData="M288,0h176v176H288V0z"
+      android:fillColor="#0071BC"/>
+  <path
+      android:pathData="M360,176h32v288h-32V176z"
+      android:fillColor="#666666"/>
+  <path
+      android:pathData="M352,152c-4.418,0 -8,-3.582 -8,-8V32c0,-4.418 3.582,-8 8,-8h31.624c8.549,-0.031 16.763,3.323 22.848,9.328c12.521,12.265 12.73,32.358 0.465,44.879c-0.153,0.157 -0.308,0.312 -0.465,0.465c-6.085,6.005 -14.299,9.359 -22.848,9.328H360v56C360,148.418 356.418,152 352,152zM360,72h23.624c4.343,-0.007 8.513,-1.706 11.624,-4.736c6.221,-6.062 6.349,-16.02 0.287,-22.241c-0.094,-0.097 -0.19,-0.193 -0.287,-0.287c-3.111,-3.03 -7.281,-4.729 -11.624,-4.736H360V72z"
+      android:fillColor="#F2F2F2"/>
+</vector>
